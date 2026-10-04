@@ -4,6 +4,7 @@ Pet Haven is a responsive, single-page pet adoption website. Visitors can browse
 
 The entire project lives in a single index.html file, built with HTML, Tailwind CSS, and vanilla JavaScript. There is no build step and no backend.
 
+
 ✨ Features
 
 Hero section with a full-screen background image and a call-to-action button
@@ -17,6 +18,7 @@ Contact form with validation and a success message
 Responsive navigation with a mobile hamburger menu
 Smooth animations (fade-in and slide-in effects) and hover transitions
 
+
 🛠️ Tech Stack
 
 Technology	          Purpose  
@@ -25,11 +27,13 @@ Tailwind CSS (CDN)	  Styling and responsive layout
 JavaScript (ES6)	    Filtering, modals, form handling, dynamic pet cards
 Font Awesome 6 (CDN)	Icons
 
+
 📁 Project Structure
 
 pet-haven/
 ├── index.html    # Markup, styles, and JavaScript in one file
 └── README.md
+
 
 🧩 How It Works
 
@@ -37,6 +41,7 @@ Pet data is stored in a JavaScript array (pets) inside index.html. Each pet has 
 loadPets() builds the pet cards dynamically and handles the Load More pagination.
 filterPets() applies the type and breed filters when the Search button is clicked.
 Modals (pet details, adoption form, and services) are toggled with Tailwind's hidden class.
+
 
 ⚠️ Current Limitations
 
@@ -53,13 +58,18 @@ Add an admin panel to manage pet listings
 Implement the Share button (Web Share API)
 Add user authentication and a favorites/wishlist feature
 
+
 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to fork the repo and open a pull request.
 
+
 📄 License
 
 This project is open source and available under the MIT License.
+
+
+
 
 👤 Author
 
