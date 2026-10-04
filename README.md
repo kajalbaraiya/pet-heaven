@@ -2,7 +2,7 @@
 
 A responsive pet adoption website where visitors can browse adoptable pets, filter them by type and breed, view full pet profiles, and submit an adoption application. Built as a single-page front-end project with HTML, Tailwind CSS, and vanilla JavaScript.
 
-**Live Demo:** _add your GitHub Pages link here_
+**Live Demo:** https://kajalbaraiya.github.io/pet-heaven/
 
 ---
 
